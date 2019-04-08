@@ -19,11 +19,12 @@ import (
 	"log"
 	"os"
 	"strings"
+
 	// "time"
 	"runtime"
 
-	. "github.com/aerospike/aerospike-client-go"
-	. "github.com/aerospike/aerospike-client-go/logger"
+	. "github.com/srikanthalluri/aerospike-client-go"
+	. "github.com/srikanthalluri/aerospike-client-go/logger"
 )
 
 // flag information

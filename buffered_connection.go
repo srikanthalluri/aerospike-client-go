@@ -17,7 +17,7 @@ package aerospike
 import (
 	"fmt"
 
-	. "github.com/aerospike/aerospike-client-go/types"
+	. "github.com/srikanthalluri/aerospike-client-go/types"
 )
 
 type bufferedConn struct {

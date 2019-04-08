@@ -20,8 +20,8 @@ import (
 	"strings"
 	"time"
 
-	. "github.com/aerospike/aerospike-client-go/logger"
-	. "github.com/aerospike/aerospike-client-go/types"
+	. "github.com/srikanthalluri/aerospike-client-go/logger"
+	. "github.com/srikanthalluri/aerospike-client-go/types"
 )
 
 const (

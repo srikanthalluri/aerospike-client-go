@@ -13,8 +13,8 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	as "github.com/aerospike/aerospike-client-go"
-	asl "github.com/aerospike/aerospike-client-go/logger"
+	as "github.com/srikanthalluri/aerospike-client-go"
+	asl "github.com/srikanthalluri/aerospike-client-go/logger"
 )
 
 var host = flag.String("h", "127.0.0.1", "Aerospike server seed hostnames or IP addresses")

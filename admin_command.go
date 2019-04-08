@@ -19,10 +19,10 @@ import (
 	"fmt"
 	"time"
 
-	// . "github.com/aerospike/aerospike-client-go/logger"
-	"github.com/aerospike/aerospike-client-go/pkg/bcrypt"
-	. "github.com/aerospike/aerospike-client-go/types"
-	Buffer "github.com/aerospike/aerospike-client-go/utils/buffer"
+	// . "github.com/srikanthalluri/aerospike-client-go/logger"
+	"github.com/srikanthalluri/aerospike-client-go/pkg/bcrypt"
+	. "github.com/srikanthalluri/aerospike-client-go/types"
+	Buffer "github.com/srikanthalluri/aerospike-client-go/utils/buffer"
 )
 
 const (

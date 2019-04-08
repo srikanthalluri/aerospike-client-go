@@ -19,10 +19,11 @@ import (
 	"runtime"
 	"strings"
 	"testing"
+
 	// "time"
 
 	_ "net/http/pprof"
-	// . "github.com/aerospike/aerospike-client-go"
+	// . "github.com/srikanthalluri/aerospike-client-go"
 )
 
 func doGet(set string, value interface{}, b *testing.B) {

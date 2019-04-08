@@ -23,10 +23,10 @@ import (
 	"sync/atomic"
 	"time"
 
-	. "github.com/aerospike/aerospike-client-go/logger"
+	. "github.com/srikanthalluri/aerospike-client-go/logger"
 
-	. "github.com/aerospike/aerospike-client-go/types"
-	. "github.com/aerospike/aerospike-client-go/types/atomic"
+	. "github.com/srikanthalluri/aerospike-client-go/types"
+	. "github.com/srikanthalluri/aerospike-client-go/types/atomic"
 )
 
 // Cluster encapsulates the aerospike cluster nodes and manages

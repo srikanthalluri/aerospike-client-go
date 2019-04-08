@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"log"
 
-	as "github.com/aerospike/aerospike-client-go"
+	as "github.com/srikanthalluri/aerospike-client-go"
 )
 
 func ExampleClient_Add() {

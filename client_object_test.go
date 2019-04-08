@@ -21,8 +21,8 @@ import (
 	"strconv"
 	"time"
 
-	as "github.com/aerospike/aerospike-client-go"
-	// . "github.com/aerospike/aerospike-client-go/utils/buffer"
+	as "github.com/srikanthalluri/aerospike-client-go"
+	// . "github.com/srikanthalluri/aerospike-client-go/utils/buffer"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

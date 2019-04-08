@@ -18,8 +18,8 @@ import (
 	"bytes"
 	"reflect"
 
-	. "github.com/aerospike/aerospike-client-go/types"
-	Buffer "github.com/aerospike/aerospike-client-go/utils/buffer"
+	. "github.com/srikanthalluri/aerospike-client-go/types"
+	Buffer "github.com/srikanthalluri/aerospike-client-go/utils/buffer"
 )
 
 type batcher interface {

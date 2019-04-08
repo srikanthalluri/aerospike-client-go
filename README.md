@@ -1,8 +1,8 @@
 # Aerospike Go Client
 
-[![Aerospike Client Go](https://goreportcard.com/badge/github.com/aerospike/aerospike-client-go)](https://goreportcard.com/report/github.com/aerospike/aerospike-client-go)
+[![Aerospike Client Go](https://goreportcard.com/badge/github.com/srikanthalluri/aerospike-client-go)](https://goreportcard.com/report/github.com/srikanthalluri/aerospike-client-go)
 [![Build Status](https://travis-ci.org/aerospike/aerospike-client-go.svg?branch=master)](https://travis-ci.org/aerospike/aerospike-client-go)
-[![Godoc](https://godoc.org/github.com/aerospike/aerospike-client-go?status.svg)](http://godoc.org/github.com/aerospike/aerospike-client-go)
+[![Godoc](https://godoc.org/github.com/srikanthalluri/aerospike-client-go?status.svg)](http://godoc.org/github.com/srikanthalluri/aerospike-client-go)
 
 An Aerospike library for Go.
 
@@ -31,7 +31,7 @@ package main
 import (
   "fmt"
 
-  . "github.com/aerospike/aerospike-client-go"
+  . "github.com/srikanthalluri/aerospike-client-go"
 )
 
 func panicOnError(err error) {
@@ -102,8 +102,8 @@ Supported operating systems:
 ## Installation:
 
 1. Install Go 1.7+ and setup your environment as [Documented](http://golang.org/doc/code.html#GOPATH) here.
-2. Get the client in your ```GOPATH``` : ```go get github.com/aerospike/aerospike-client-go```
-  * To update the client library: ```go get -u github.com/aerospike/aerospike-client-go```
+2. Get the client in your ```GOPATH``` : ```go get github.com/srikanthalluri/aerospike-client-go```
+  * To update the client library: ```go get -u github.com/srikanthalluri/aerospike-client-go```
 
 Using [gopkg.in](https://gopkg.in/) is also supported: `go get -u gopkg.in/aerospike/aerospike-client-go.v1`
 
@@ -154,7 +154,7 @@ See the [`tools/benchmark/README.md`](tools/benchmark/README.md) for details.
 <a name="API-Documentation"></a>
 ## API Documentation
 
-A simple API documentation is available in the [`docs`](docs/README.md) directory. The latest up-to-date docs can be found in [![Godoc](https://godoc.org/github.com/aerospike/aerospike-client-go?status.svg)](http://godoc.org/github.com/aerospike/aerospike-client-go).
+A simple API documentation is available in the [`docs`](docs/README.md) directory. The latest up-to-date docs can be found in [![Godoc](https://godoc.org/github.com/srikanthalluri/aerospike-client-go?status.svg)](http://godoc.org/github.com/srikanthalluri/aerospike-client-go).
 
 ## License
 

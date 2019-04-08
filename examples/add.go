@@ -20,8 +20,8 @@ package main
 import (
 	"log"
 
-	as "github.com/aerospike/aerospike-client-go"
-	shared "github.com/aerospike/aerospike-client-go/examples/shared"
+	as "github.com/srikanthalluri/aerospike-client-go"
+	shared "github.com/srikanthalluri/aerospike-client-go/examples/shared"
 )
 
 func main() {

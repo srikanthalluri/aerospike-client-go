@@ -18,11 +18,11 @@ import (
 	"math"
 	"math/rand"
 
-	as "github.com/aerospike/aerospike-client-go"
-	// . "github.com/aerospike/aerospike-client-go/logger"
-	ast "github.com/aerospike/aerospike-client-go/types"
+	as "github.com/srikanthalluri/aerospike-client-go"
+	// . "github.com/srikanthalluri/aerospike-client-go/logger"
+	ast "github.com/srikanthalluri/aerospike-client-go/types"
 
-	// . "github.com/aerospike/aerospike-client-go/utils/buffer"
+	// . "github.com/srikanthalluri/aerospike-client-go/utils/buffer"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

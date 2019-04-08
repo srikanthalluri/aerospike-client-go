@@ -17,8 +17,8 @@ package aerospike
 import (
 	"sync"
 
-	// . "github.com/aerospike/aerospike-client-go/logger"
-	. "github.com/aerospike/aerospike-client-go/types/atomic"
+	// . "github.com/srikanthalluri/aerospike-client-go/logger"
+	. "github.com/srikanthalluri/aerospike-client-go/types/atomic"
 )
 
 type peers struct {

@@ -19,7 +19,7 @@ package aerospike_test
 import (
 	"runtime"
 
-	. "github.com/aerospike/aerospike-client-go"
+	. "github.com/srikanthalluri/aerospike-client-go"
 
 	"testing"
 )
