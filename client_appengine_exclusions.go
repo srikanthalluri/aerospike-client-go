@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"sync"
 
-	lualib "github.com/aerospike/aerospike-client-go/internal/lua"
-	. "github.com/aerospike/aerospike-client-go/types"
+	lualib "github.com/srikanthalluri/aerospike-client-go/internal/lua"
+	. "github.com/srikanthalluri/aerospike-client-go/types"
 	lua "github.com/yuin/gopher-lua"
 )
 
